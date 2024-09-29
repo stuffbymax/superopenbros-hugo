@@ -1,0 +1,9 @@
+baseURL = "http://example.com/"
+languageCode = "en-us"
+title = "Super Open Bros Project"
+theme = "ananke"
+
+[params]
+  description = "An open-source Mario-like game project. Jump, run, and play in this fun platformer inspired by the classics."
+  github_repo = "https://github.com/yourusername/mario-project"
+  custom_css = ["css/styles.css"]

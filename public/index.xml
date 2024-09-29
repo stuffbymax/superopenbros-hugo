@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mario Open Source Project</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Mario Open Source Project</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Sep 2024 15:22:11 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 22 Sep 2024 15:22:11 +0100</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;images/test-build.0.jpg&#34; alt=&#34;screen&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Welcome to the Mario Open Source Project! This is an open-source game inspired by the classic Mario platformers. Explore the world, defeat enemies, and collect power-ups!&lt;/p&gt;&#xA;&lt;p&gt;the project is still in development&lt;/p&gt;&#xA;&lt;p&gt;You can contribute to this project, check out our GitHub repository.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Download</title>
+      <link>http://localhost:1313/download/</link>
+      <pubDate>Sun, 22 Sep 2024 15:22:11 +0100</pubDate>
+      <guid>http://localhost:1313/download/</guid>
+      <description>&lt;p&gt;test first build avaiable&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>Features</title>
+      <link>http://localhost:1313/features/</link>
+      <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/features/</guid>
+      <description>&lt;h3 id=&#34;key-features-of-the-mario-open-source-project&#34;&gt;Key Features of the Mario Open Source Project&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Classic Platforming Action&lt;/strong&gt;: Inspired by the legendary Mario Super Bros.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Customizable Levels&lt;/strong&gt;: Easily create and share your own levels.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Open Source&lt;/strong&gt;: Built with open-source technologies, and free for everyone to contribute.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Power-Ups and Enemies&lt;/strong&gt;: Collect mushrooms, shoot fireballs, and battle classic foes.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&amp;ldquo;1to1copy&amp;rdquo;&lt;/strong&gt;: this projects aim to reacreate the feeling of Mario Super Bros but because the limitation of the engine and that is made by one person the development is slow&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Easier to learn&lt;/strong&gt; because the game is developed in GDevelop it means is made in visual scripting and that mades it easier to learn than programing and that allows the project to be edited by everyone because no need to code&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
