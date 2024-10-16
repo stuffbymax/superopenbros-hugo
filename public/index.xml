@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mario Open Source Project</title>
+    <title>Super Open Bros Project</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Mario Open Source Project</description>
+    <description>Recent content on Super Open Bros Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Sep 2024 15:22:11 +0100</lastBuildDate>
@@ -13,14 +13,14 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 22 Sep 2024 15:22:11 +0100</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;images/test-build.0.jpg&#34; alt=&#34;screen&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Welcome to the Mario Open Source Project! This is an open-source game inspired by the classic Mario platformers. Explore the world, defeat enemies, and collect power-ups!&lt;/p&gt;&#xA;&lt;p&gt;the project is still in development&lt;/p&gt;&#xA;&lt;p&gt;You can contribute to this project, check out our GitHub repository.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;images/test-build.0.jpg&#34; alt=&#34;picture-here&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Welcome to the &lt;strong&gt;Super Open Bros Project&lt;/strong&gt;! This is an open-source game inspired by the classic &lt;strong&gt;Super Mario Bros&lt;/strong&gt;. The goal is to replicate the feel of the original game and create a 1-to-1 copy of &lt;strong&gt;Super Mario Bros&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-project-is-still-in-development&#34;&gt;The project is still in development&lt;/h2&gt;&#xA;&lt;p&gt;You can contribute to this project by checking out our GitHub repository.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/stuffbymax/Super-Open-Bros&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Download</title>
       <link>http://localhost:1313/download/</link>
       <pubDate>Sun, 22 Sep 2024 15:22:11 +0100</pubDate>
       <guid>http://localhost:1313/download/</guid>
-      <description>&lt;p&gt;test first build avaiable&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>Features</title>
