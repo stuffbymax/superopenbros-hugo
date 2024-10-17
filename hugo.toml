@@ -1,4 +1,4 @@
-baseURL = "http://superopenbros.stuffbymax.me/"
+baseURL = "https://superopenbros.stuffbymax.me/"
 languageCode = "en-us"
 title = "Super Open Bros Project"
 theme = "ananke"
